@@ -1,0 +1,28 @@
+h1 {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h2 {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	display: flex;
+	justify-content: center;
+	justify-content: center;
+}
+
+p {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	display: flex;
+	justify-content: center;
+	justify-content: center;
+}
+
+.navbar-custom {
+	background-color: rgb(141, 141, 141);
+}
+
+a {
+	color: white;
+}
