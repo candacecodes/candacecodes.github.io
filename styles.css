@@ -17,6 +17,10 @@ p {
 	justify-content: center;
 }
 
+#white-background {
+	background-color: white;
+}
+
 .navbar-custom {
 	background-color: rgb(87, 87, 87);
 	/* background-image: linear-gradient(rgb(87, 87, 87), rgb(143, 143, 143)); */
