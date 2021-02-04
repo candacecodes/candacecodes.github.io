@@ -30,6 +30,12 @@ p {
 	/* background-image: linear-gradient(rgb(87, 87, 87), rgb(143, 143, 143)); */
 }
 
+.nav {
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+}
+
 a {
 	color: white;
 	justify-content: center;
