@@ -1,29 +1,60 @@
-/* body {
+body {
 	padding-top: 50px;
-} */
+}
+
+.intro {
+	color: black;
+	height: 400px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.about {
+	/* height: 500px;
+	text-align: center;
+	display: flex; 
+	align-items: center;
+	justify-content: center; */
+
+	height: 400px;
+	text-align: center;
+	/* display: flex; */
+	align-items: center;
+	justify-content: center;
+}
 
 h1 {
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-	display: flex;
-	justify-content: center;
+	/* display: flex;
+	justify-content: center; */
 	align-items: center;
 }
 
 h2 {
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-	display: flex;
+	/* display: flex; */
 	justify-content: center;
 	margin-bottom: 0rem;
+	color: black;
 }
 
 p {
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 	display: flex;
+	text-align: center;
+	display: flex;
+	align-items: center;
 	justify-content: center;
 }
 
 #white-background {
+	height: 400px;
+	color: rgb(87, 87, 87);
 	background-color: white;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .navbar-custom {
@@ -37,8 +68,12 @@ p {
 	width: 100%; /* Full width */
 }
 
-#healthcare {
-	background-image: rgb(157, 241, 195);
+.healthcare {
+	background-image: linear-gradient(rgb(167, 249, 255), rgb(157, 241, 195));
+	text-align: center;
+	/* display: flex; */
+	align-items: center;
+	justify-content: center;
 }
 
 a {
@@ -70,6 +105,11 @@ a:active {
 	/* background-color: rgb(87, 87, 87); */
 	background-image: linear-gradient(rgb(167, 249, 255), rgb(157, 241, 195));
 	color: black;
+	height: 300px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .banner {
