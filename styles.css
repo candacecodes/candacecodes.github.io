@@ -12,17 +12,16 @@ body {
 }
 
 .about {
-	/* height: 500px;
-	text-align: center;
-	display: flex; 
-	align-items: center;
-	justify-content: center; */
-
+	background-color: white;
 	height: 400px;
 	text-align: center;
 	/* display: flex; */
 	align-items: center;
 	justify-content: center;
+}
+
+.footer {
+	height: 100px;
 }
 
 h1 {
